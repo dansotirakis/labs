@@ -1,0 +1,3 @@
+[submodule "lab-java-sqs-elbow"]
+	path = lab-java-sqs-elbow
+	url = git@github.com:dansotirakis/lab-java-sqs-elbow.git
